@@ -1,0 +1,14 @@
+{
+   "DataAds":{
+     
+       "Enable_Admob":false,
+       
+       "BANNER_ADMOB":"ca-app-pub-3940256099942544/6300978111",
+       "INTERSTITIAL_ADMOB":"ca-app-pub-3940256099942544/1033173712",
+       "NATIVE_ADMOB":"ca-app-pub-3940256099942544/2247696110",
+       "OPEN_ADS_ADMOB":"ca-app-pub-3940256099942544/3419835294",
+       
+       "appKey_IronSource":"18ab10e45"
+    
+   }
+}
